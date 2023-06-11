@@ -1,13 +1,9 @@
 package brwsrInvoke;
 
-//********************************************************************************************
-	//*                                                                                          *
-	//*    Guru99 eCommerce Live Project                                                         *
-	//*    Day 1 - TestCase 1                                                                    *
-	//*    Author: Krishna Rungta                                                                *                                                                                      *
+                                                            *                                                                                      *
+/*
 
-	//********************************************************************************************
-	/*  
+
 
 	Test Steps
 	Step 1. Goto http://live.techpanda.org/
